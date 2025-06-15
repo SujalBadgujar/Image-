@@ -19,12 +19,14 @@ This project is an image compositing pipeline that removes the background from a
 5. **Final Compositing**: 
    - All layers (background, shadow, and harmonized foreground) are composited to create the final image. This step combines all elements into a single, cohesive image.
   
-Original Image:
-![person_original](https://github.com/user-attachments/assets/ee3d372a-2ff7-45ac-bae0-8ff788a1b476)
-Background:
-![background](https://github.com/user-attachments/assets/4cd0b5cd-f88b-4d24-ac37-5704f20cbc8f)
-Final Output:
-![final_composite](https://github.com/user-attachments/assets/848e07c1-a4f7-4710-9e32-2b229f22649a)
+## Original Image:
+<img src="https://github.com/user-attachments/assets/ee3d372a-2ff7-45ac-bae0-8ff788a1b476" alt="person_original" width="300"/>
+
+## Background:
+<img src="https://github.com/user-attachments/assets/4cd0b5cd-f88b-4d24-ac37-5704f20cbc8f" alt="background" width="300"/>
+
+## Final Output:
+<img src="https://github.com/user-attachments/assets/848e07c1-a4f7-4710-9e32-2b229f22649a" alt="final_composite" width="300"/>
 
 
 

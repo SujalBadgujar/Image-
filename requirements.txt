@@ -1,0 +1,11 @@
+# requirements.txt
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+rembg>=2.0.0
+
+# Additional dependencies for image processing
+scikit-image>=0.21.0  # For advanced image processing
+scipy>=1.11.0  # For scientific computing
+matplotlib>=3.7.0  # For visualization and debugging
